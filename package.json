@@ -1,18 +1,18 @@
-{
+i{
   "name": "twilio-contact-center",
-  "description": "A simple omni channel contact center using Twilio WebRTC Client, Video, SMS, Chat and Taskrouter",
+  "description": "The Becks Insurance omni channel contact center with WebRTC Client, Video, SMS, Chat and Taskrouter",
   "version": "1.13.0",
-  "author": "Matthias Damm",
+  "author": "Darren Beckinsale",
   "contributors": [
     {
-      "name": "Hunter Rancourt",
-      "url": "https://github.com/skwid138"
+      "name": "Darren Beckinsale",
+      "url": "https://github.com/dbeckinsale"
     }
   ],
   "license": "MIT",
-  "repository": "nash-md/twilio-contact-center",
+  "repository": "dbeckinsale/twilio-contact-center",
   "main": "app.js",
-  "bugs": "https://github.com/nash-md/twilio-contact-center/issues",
+  "bugs": "https://github.com/dbeckinsale/twilio-contact-center/issues",
   "private": false,
   "keywords": [
     "Twilio",
